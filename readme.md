@@ -12,14 +12,14 @@
   
 `RH-1: It's me, Richard.` 
 
-UC-3: What are you doing calling me? It’s one fucking thirty in the morning. ` 
+`UC-3: It’s one <-------> thirty in the morning. What are you doing calling me?` 
 
 `RH-1: Sorry to do it to you, but we have the mother of a virus tearing through a major company file.`
 
 `UC-3: Okay, throw me some numbers.`
 <intense typing>
 
-`UC-3: Okay, give me a password.`
+`UC-3: Okay, give me your password.`
 
 `RH-1: My password?`
 
